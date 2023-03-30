@@ -1,7 +1,7 @@
 Olá.
 
-- 🔭 I’m currently working on Front-web
-- 🌱 I’m currently learning Computer Science and engineering
+- 🔵 I’m currently working on Front-web
+- 🟣 I’m currently learning Computer Science and engineering
 
 
 
