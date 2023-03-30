@@ -15,8 +15,8 @@ Olá.
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-
+<img align="right" alt="lofi"  src "https://www.google.com/url?sa=i&url=https%3A%2F%2Fderikisu.tumblr.com%2Fpost%2F187155784968&psig=AOvVaw1gBN9M9KjB_xttkKTCNJDQ&ust=1680289480867000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi_hZ-shP4CFQAAAAAdAAAAABA2"
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fderikisu.tumblr.com%2Fpost%2F187155784968&psig=AOvVaw1gBN9M9KjB_xttkKTCNJDQ&ust=1680289480867000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi_hZ-shP4CFQAAAAAdAAAAABA2">
 </div>
 
 <br>
