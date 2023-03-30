@@ -15,7 +15,7 @@ Olá.
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="right" alt="lofi"  src "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmidoriya-izuku-anime-stud-study-time-bnha-gif-23228721&psig=AOvVaw1OznR-ijUetsZO7UYDer6M&ust=1680289854376000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMj1hdGthP4CFQAAAAAdAAAAABAE">
+<img align="right" alt="lofi"  src " src               "https://cdn.discordapp.com/attachments/1044244524580470795/1091077437330313379/tumblr_60b5d305ec5438d90e5519a1f76b943d_2d1edc9f_540.gif"">
 </div>
 
 <br>
